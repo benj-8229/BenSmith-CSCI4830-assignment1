@@ -1,1 +1,1 @@
-print("Hello World creating merge conflict from main")
+print("Hello world merge resolution")
